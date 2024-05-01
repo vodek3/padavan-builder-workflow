@@ -1,4 +1,4 @@
-name: Build firmware R3G
+name: Build firmware
 
 on:
   workflow_dispatch:
